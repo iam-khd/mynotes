@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347812780941",
+    "project_id": "iamkhd-mynotes",
+    "storage_bucket": "iamkhd-mynotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347812780941:android:cf0475fa934e9a557a7bc4",
+        "android_client_info": {
+          "package_name": "com.hello.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmSRyvVhXfrBhSyAq7kzEr4UWgeC_-Psk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
