@@ -8,6 +8,7 @@ import 'package:firebase_auth/firebase_auth.dart'
     show FirebaseAuth, FirebaseAuthException;
 
 class FirebaseAuthProvider implements AuthProvider {
+
   @override
   Future<void> initialize() async {
     await Firebase.initializeApp(
@@ -104,6 +105,7 @@ class FirebaseAuthProvider implements AuthProvider {
       throw UserNotLoggedInAuthException();
     }
   }
+
 
   
 }
